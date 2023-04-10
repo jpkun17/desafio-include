@@ -72,8 +72,8 @@ a:active { text-decoration: none; color: #FFFFFF;}
 .menu_link:link{ text-decoration: none; 
 color: #FFFFFF;
 }
-.menu_link:visited{ text-decoration: none; color: #00ff0d; }
-.menu:hover{ text-decoration: underline; color: #FFFFFF;}
+.menu_link:visited{ text-decoration: none; color: #FFFFFF; }
+.menu_link:hover{ text-decoration: underline; color: #FFFFFF;}
 .menu:active{ text-decoration: underline; color: #FFFFFF;}
 
 #banner_txt1{
@@ -150,7 +150,7 @@ color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
-    line-height: 0px;
+    line-height: 18px;
     text-align: center;
     
     color: #000000;
